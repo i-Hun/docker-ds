@@ -1,0 +1,67 @@
+[I 22:43:54.712 LabApp] Writing notebook server cookie secret to /tmp/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 22:43:55.156 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 22:43:55.156 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 22:43:55.217 LabApp] Serving notebooks from local directory: /app
+[I 22:43:55.217 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 22:43:55.217 LabApp] http://267a78f6aa42:12101/?token=9274fa627c64314725a909b02bc1c0785a474e6ce4ed4664
+[I 22:43:55.217 LabApp]  or http://127.0.0.1:12101/?token=9274fa627c64314725a909b02bc1c0785a474e6ce4ed4664
+[I 22:43:55.217 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:43:55.220 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///tmp/.local/share/jupyter/runtime/nbserver-12-open.html
+    Or copy and paste one of these URLs:
+        http://267a78f6aa42:12101/?token=9274fa627c64314725a909b02bc1c0785a474e6ce4ed4664
+     or http://127.0.0.1:12101/?token=9274fa627c64314725a909b02bc1c0785a474e6ce4ed4664
+[I 22:44:31.583 LabApp] 302 GET / (10.192.1.16) 0.87ms
+[W 22:44:31.626 LabApp] Clearing invalid/expired login cookie username-10-192-3-38-12101
+[W 22:44:31.627 LabApp] Clearing invalid/expired login cookie username-10-192-3-38-12101
+[I 22:44:31.627 LabApp] 302 GET /lab? (10.192.1.16) 1.94ms
+[I 22:44:39.760 LabApp] 302 POST /login?next=%2Flab%3F (10.192.1.16) 1.38ms
+[I 22:44:45.736 LabApp] Build is up to date
+-\|/-\|/-\|/-\|[I 23:07:40.077 LabApp] Build is up to date
+[I 07:05:50.766 LabApp] Writing notebook server cookie secret to /tmp/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 07:05:51.217 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.8/dist-packages/jupyterlab
+[I 07:05:51.217 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 07:05:51.281 LabApp] Serving notebooks from local directory: /app
+[I 07:05:51.282 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 07:05:51.282 LabApp] http://c88993c76998:12101/?token=9a7e0be882dd48c12e014f568b98ac803687cc007f8cab26
+[I 07:05:51.282 LabApp]  or http://127.0.0.1:12101/?token=9a7e0be882dd48c12e014f568b98ac803687cc007f8cab26
+[I 07:05:51.282 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:05:51.285 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///tmp/.local/share/jupyter/runtime/nbserver-12-open.html
+    Or copy and paste one of these URLs:
+        http://c88993c76998:12101/?token=9a7e0be882dd48c12e014f568b98ac803687cc007f8cab26
+     or http://127.0.0.1:12101/?token=9a7e0be882dd48c12e014f568b98ac803687cc007f8cab26
+[W 07:06:43.134 LabApp] Clearing invalid/expired login cookie username-10-192-3-38-12101
+[W 07:06:43.135 LabApp] Clearing invalid/expired login cookie username-10-192-3-38-12101
+[I 07:06:43.135 LabApp] 302 GET /lab? (10.192.1.16) 2.06ms
+[I 07:06:48.280 LabApp] 302 POST /login?next=%2Flab%3F (10.192.1.16) 1.45ms
+[I 07:07:59.009 LabApp] Build is up to date
+-\|/-\|/-\|/-\|/-\|[I 07:09:15.294 LabApp] Shutting down on /api/shutdown request.
+[I 07:09:15.295 LabApp] Shutting down 0 kernels
+[I 07:09:15.295 LabApp] Shutting down 0 terminals
+[I 12:04:33.483 LabApp] Writing notebook server cookie secret to /tmp/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 12:04:33.997 LabApp] JupyterLab extension loaded from /usr/local/lib/python3.7/dist-packages/jupyterlab
+[I 12:04:33.998 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 12:04:34.059 LabApp] Serving notebooks from local directory: /app
+[I 12:04:34.059 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:04:34.059 LabApp] http://2ec76a6097ab:12101/?token=808cef5e188e84d655889db0bbb5e221433773f682678a6d
+[I 12:04:34.059 LabApp]  or http://127.0.0.1:12101/?token=808cef5e188e84d655889db0bbb5e221433773f682678a6d
+[I 12:04:34.059 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:04:34.062 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///tmp/.local/share/jupyter/runtime/nbserver-13-open.html
+    Or copy and paste one of these URLs:
+        http://2ec76a6097ab:12101/?token=808cef5e188e84d655889db0bbb5e221433773f682678a6d
+     or http://127.0.0.1:12101/?token=808cef5e188e84d655889db0bbb5e221433773f682678a6d
+[W 12:05:23.688 LabApp] Clearing invalid/expired login cookie username-10-192-3-38-12101
+[W 12:05:23.688 LabApp] Forbidden
+[W 12:05:23.689 LabApp] 403 POST /git/branch?1599901523625 (10.192.1.16) 17.91ms referer=http://10.192.3.38:12101/lab?
+[I 12:05:24.189 LabApp] 302 GET /lab? (10.192.1.16) 0.90ms
+[I 12:05:26.519 LabApp] 302 POST /login?next=%2Flab%3F (10.192.1.16) 1.29ms
+[I 12:05:35.089 LabApp] Build is up to date
+-\|/-\|/-\|/-\|/-\
